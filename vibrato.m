@@ -1,5 +1,5 @@
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-%vibrate.m
+%vibrato.m
 %Program author: Akihiro Inui
 %Program details: Read audio file and apply simple vibrate
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
