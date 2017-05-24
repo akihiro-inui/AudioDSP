@@ -28,7 +28,7 @@ y = flipud(cumsum(flipud(x .^ 2)));
 % Create time vector
 t = ([0:length(y)-1]/Fs)';
 
-% Find a maximum value of y in Db expression
+% Find a maximum value of y in dB expression
 m = max(10*log10(y));
 
 % Set the start point to zero
