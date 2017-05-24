@@ -1,5 +1,5 @@
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-%Karplus_Strong.m
+%karplus_strong.m
 %Program author: Akihiro Inui
 %Program details: Implement Karplus-Strong Algorithm
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
